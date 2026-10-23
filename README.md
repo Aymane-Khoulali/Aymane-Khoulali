@@ -1,103 +1,130 @@
 
-# Hi, I'm Aymane Khoulali 👋
+<div align="center">
 
-### Computer Science Student | Big Data & Artificial Intelligence
+# Hey, I'm Aymane Khoulali 👋
 
-I'm a fourth-year Computer Science student at the **International University of Rabat (UIR)**, graduating in 2028.
+### Big Data & AI Student @ UIR · Machine Learning · NLP · Data Science
 
-I'm passionate about **Machine Learning, Data Science, and Natural Language Processing**, particularly building AI systems that solve real-world problems involving complex data, privacy constraints, and imperfect inputs.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning+%26+Data+Science;Building+Practical+AI+Solutions;Interested+in+NLP+%26+Large+Language+Models)](https://git.io/typing-svg)
 
-I enjoy exploring the intersection of AI research and practical software engineering — turning ideas and models into reliable, usable applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanekhoulali/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aymane--Khoulali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aymane-Khoulali)
 
----
-
-## 🧠 Areas of Interest
-
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Data Science & Data Engineering
-- Applied AI & Intelligent Systems
+</div>
 
 ---
 
-## 🛠️ Technical Stack
+## 🧑‍💻 About Me
 
-**Programming Languages**
+- 🎓 Fourth-year **Computer Science — Big Data & AI** student at the International University of Rabat (UIR), graduating in 2028.
+- 🧠 Interested in **Machine Learning, Data Science, NLP, and Large Language Models**.
+- ⚖️ Developed the LLM and validation components of a privacy-focused Arabic legal information extraction system during my internship at the **Moroccan Ministry of Justice**.
+- 🌍 Completed an international academic exchange at the **University of Regina, Canada**.
+- 🔍 Interested in turning machine learning concepts into practical, reliable applications.
+- 💼 Open to **Summer 2027 internships** in AI, Machine Learning, and Data Science.
 
-Python · Java · SQL · C · PHP · HTML/CSS
+---
 
-**AI & Machine Learning**
+## 🛠️ Tech Stack
 
-scikit-learn · TensorFlow · PyTorch · Pandas · NumPy · Matplotlib
+### Programming Languages
 
-**Databases & Data Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css" alt="Programming Languages"/>
+</p>
 
-MySQL · MongoDB · Redis · NoSQL
+**Also working with:** SQL
 
-**Cloud & Development Tools**
+### AI, Machine Learning & Data Science
 
-Microsoft Azure · AWS · Docker · Git · GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning Technologies"/>
+</p>
 
-**AI Applications**
+**Libraries:** NumPy · Pandas · Matplotlib · scikit-learn · PyTorch · TensorFlow
 
-Ollama · Qwen2.5 · Streamlit · OCR · Prompt Engineering
+**Areas:** Machine Learning · Deep Learning · NLP · LLMs · Prompt Engineering
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases"/>
+</p>
+
+### Cloud & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,vscode" alt="Cloud and Development Tools"/>
+</p>
+
+**Additional Tools:** Ollama · Qwen2.5 · Streamlit · Talend
 
 ---
 
 ## 🚀 Featured Project
 
-### Arabic Legal Information Extraction
+### ⚖️ Arabic Legal Information Extraction
 
 **AI/NLP Internship Project — Moroccan Ministry of Justice | 2026**
 
-Developed as part of a two-person team, this project explores how locally deployed AI can extract structured legal information from Moroccan judicial documents written in Arabic.
+A privacy-focused document processing system that extracts structured legal information from Moroccan judicial decisions written in Arabic.
 
-My contributions focused on the LLM and validation components, including:
+The pipeline combines OCR, a locally deployed LLM, and deterministic Python validation to address the challenges of Arabic text recognition, ambiguous legal information, and LLM hallucinations.
 
-- Deploying **Qwen2.5:7B locally with Ollama** to avoid external cloud APIs.
-- Building hybrid LLM and deterministic Python extraction methods.
-- Developing validation safeguards to mitigate hallucinations.
-- Extracting case identifiers, court composition, judicial decisions, and compensation amounts.
-- Achieving **10/10 correct case-number extractions** on a 10-document test corpus.
-- Co-developing a Streamlit interface for demonstrating the end-to-end pipeline.
+**My main contributions:**
 
-**Technologies:** Python, Qwen2.5, Ollama, NLP, OCR, Streamlit, Git
+- 🧠 Deployed **Qwen2.5:7B locally via Ollama**.
+- 🔍 Developed structured information extraction for judicial documents.
+- 🛡️ Implemented deterministic validation and hallucination safeguards.
+- 📄 Extracted case numbers, judgment panel composition, rulings, and compensation information.
+- 🖥️ Co-developed a Streamlit interface demonstrating the complete pipeline.
 
-🔗 [Explore the project](https://github.com/Aymane-Khoulali/extraction-juridique-pfa)
+### 📊 Evaluation Highlight
+
+**10/10 correct case-number extractions** on a test corpus of 10 judicial documents using deterministic Python extraction rules.
+
+> This result applies to the evaluated corpus and does not represent guaranteed accuracy on unseen documents.
+
+**Tech Stack:** Python · Qwen2.5 · Ollama · OCR · Streamlit · JSON
+
+🔗 **[Explore the Project Repository](https://github.com/Aymane-Khoulali/extraction-juridique-pfa)**
 
 ---
 
 ## 🎓 Education & Experience
 
-**International University of Rabat (UIR)**  
-Computer Science — Big Data & Artificial Intelligence  
-2023–2028
-
-**University of Regina, Canada**  
-International Academic Exchange — Fall 2025
-
-**Professional Experience**
-- AI/NLP Engineering Intern — Ministry of Justice (2026)
-- Web Development Intern — Taha Tijara SARL (2025)
-- Cybersecurity Research Assistant Intern — AParTel (2024)
+| Period | Institution / Organization | Experience |
+|---|---|---|
+| 2023–2028 | International University of Rabat | Computer Science — Big Data & AI |
+| Fall 2025 | University of Regina, Canada | International Academic Exchange |
+| 2026 | Moroccan Ministry of Justice | AI / NLP Engineering Intern |
+| 2025 | Taha Tijara SARL | Web Development Intern |
+| 2024 | AParTel | Cybersecurity Research Assistant Intern |
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Statistics
 
-Expanding my knowledge through coursework and practical work in:
+<div align="center">
 
-- Machine Learning and Deep Learning
-- NoSQL Databases and Data Processing
-- Cloud Computing and Containerization
-- Data Security and Software Engineering
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymane-Khoulali&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Khoulali&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **Summer 2027 internship opportunities** in Artificial Intelligence, Machine Learning, and Data Science.
+I'm always interested in learning, collaborating, and exploring opportunities in Artificial Intelligence and Data Science.
 
+📍 Rabat, Morocco  
 💼 [LinkedIn](https://www.linkedin.com/in/aymanekhoulali/)  
-📍 Rabat, Morocco
+💻 [GitHub](https://github.com/Aymane-Khoulali)
+
+<div align="center">
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
